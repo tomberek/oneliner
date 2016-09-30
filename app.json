@@ -3,5 +3,10 @@
   "description": "A barebones Pandoc API",
   "repository": "https://github.com/tomberek/pandoc-heroku",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["pandoc", "markdown"]
+  "keywords": ["pandoc", "markdown"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/blindside-io/heroku-buildpack-pandoc"
+    }
+  ]
 }
