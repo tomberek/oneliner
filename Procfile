@@ -1,0 +1,2 @@
+web: sh ./oneliner.sh
+

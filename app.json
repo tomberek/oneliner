@@ -1,0 +1,7 @@
+{
+  "name": "Pandoc Onlin",
+  "description": "A barebones Pandoc API",
+  "repository": "https://github.com/tomberek/pandoc-heroku",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["pandoc", "markdown"]
+}
